@@ -1,0 +1,7 @@
+Parachute:
+
+prop_weapon_upgrade_chute
+
+Propulseur:
+
+prop_weapon_upgrade_exojump
