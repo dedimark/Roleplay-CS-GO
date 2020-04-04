@@ -2,8 +2,6 @@
 
 GitHUB du projet roleplay de la team <a rel="forum" href="https://www.revolution-team.be">Revolution</a>
 
-Besoin d'une mise à jour de l'API? Ouvrez un rapport sur github !
-
 # Bugs
 
 Merci de poster les problèmes liés aux jobs <a rel="issues" href="https://github.com/Benito1020/Roleplay-CS-GO/issues">ici</a>; pour des problèmes de l'API, ouvrez rapport sur github!
