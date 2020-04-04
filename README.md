@@ -13,3 +13,4 @@ Merci de poster les problèmes liés aux jobs <a rel="issues" href="https://gith
 - Nous remercions <a rel="issues" href="https://github.com/Benito1020/Roleplay-CS-GO/graphs/contributors">toutes les personnes</a> ayant collaboré au développement de ce projet.
 
 - <a rel="issues" href="https://github.com/Totenfluch">Totenfluch</a>
+- <a rel="issues" href="https://github.com/kossolax">KoSSoLax</a>
