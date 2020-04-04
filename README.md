@@ -12,5 +12,5 @@ Merci de poster les problèmes liés aux jobs <a rel="issues" href="https://gith
 # Crédits
 - Nous remercions <a rel="issues" href="https://github.com/Benito1020/Roleplay-CS-GO/graphs/contributors">toutes les personnes</a> ayant collaboré au développement de ce projet.
 
-- <a rel="issues" href="https://github.com/Totenfluch">Totenfluch</a>
-- <a rel="issues" href="https://github.com/kossolax">KoSSoLax</a>
+- <a rel="issues" href="https://github.com/Totenfluch">Totenfluch</a> - Inspiration du project <a rel="issues" href="https://github.com/Totenfluch/T-RP-v2">T-RP V2</a>
+- <a rel="issues" href="https://github.com/kossolax">KoSSoLax</a> - Inspiration des variables <a rel="issues" href="https://github.com/Hellhium/TSX-RP">TSX-RP</a>
