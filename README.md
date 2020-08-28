@@ -1,6 +1,6 @@
 # Roleplay CS:GO
 
-GitHUB du projet roleplay de la team <a rel="forum" href="https://www.revolution-team.be">Revolution</a>
+GitHUB du projet roleplay de la team <a rel="forum" href="https://vr-hosting.fr/">VR-Hosting.fr</a>
 
 # Bugs
 
