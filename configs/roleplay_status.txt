@@ -1,0 +1,23 @@
+#————————————————————————————————————————————————————————————————————————
+# __      _______        _    _  ____   _____ _______ _____ _   _  _____ 
+# \ \    / /  __ \      | |  | |/ __ \ / ____|__   __|_   _| \ | |/ ____|
+#  \ \  / /| |__) |_____| |__| | |  | | (___    | |    | | |  \| | |  __ 
+#   \ \/ / |  _  /______|  __  | |  | |\___ \   | |    | | | . ` | | |_ |
+#    \  /  | | \ \      | |  | | |__| |____) |  | |   _| |_| |\  | |__| |
+#     \/   |_|  \_\     |_|  |_|\____/|_____/   |_|  |_____|_| \_|\_____|
+#                                                                        
+#  
+#			Nom du serveur: {SERVER_NAME}
+#			Auteurs: {AUTHOR}
+#			Forum: {FORUM}
+#			Discord: {DISCORD}
+#			IP Serveur: {SERVER_IP}
+#			Joueurs: {PLAYER_COUNT}({CONNECTING_PLAYERS})/{MAXPLAYERS}
+#			Date Actuelle: {CURRENT_DATE}
+#			Heure Actuelle: {CURRENT_TIME}
+#			Map: {CURRENT_MAP}
+—————————————————————————————————————————————————————————————————————————
+# ID  | Nom Joueur 		|  		SteamID		    |  Temps de Connection  |  Ping
+# {USERID} 	{PLAYERNAME}    		{STEAM32}	  		{CONNECTION_TIME}      	{CLIENT_PING}
+ 
+—————————————————————————————————————————————————————————————————————————

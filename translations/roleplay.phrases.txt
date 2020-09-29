@@ -1,0 +1,731 @@
+"Phrases"
+{
+	"Menu_Admin"
+	{
+		"en"	"Administration"
+		"fr"	"Administration"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Moderator"
+	{
+		"en"	"Moderation"
+		"fr"	"Moderare"
+		"ro"	"Modératie"
+		"kr"	""
+	}
+	"Menu_Setting_Players"
+	{
+		"#format" "{1:d}"
+		"en"	"Player management [{1} / 4]"
+		"fr"	"Gestion des joueurs [{1} / 4]"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_JobMenu"
+	{
+		"en"	"JobMenu"
+		"fr"	"JobMenu"
+		"ro"	""
+		"kr"	""
+	}
+	"SubMenu_JobMenu"
+	{
+		"en"	"Manage a player's job:"
+		"fr"	"Gérer le métier d'un joueur:"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Teleport"
+	{
+		"en"	"Téléport"
+		"fr"	"Téléporter"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_TeleportAt"
+	{
+		"en"	"Téléport at"
+		"fr"	"Téléporter sur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Skin"
+	{
+		"en"	"Set skin"
+		"fr"	"Mettre un skin"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Weapon"
+	{
+		"en"	"Give weapon"
+		"fr"	"Donner une arme"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_EditPlayer"
+	{
+		"en"	"Edit a Player"
+		"fr"	"Modifier un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Kick"
+	{
+		"en"	"Kick a Player"
+		"fr"	"Kick un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Ban"
+	{
+		"en"	"Ban a Player"
+		"fr"	"Ban un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Slay"
+	{
+		"en"	"Slay a Player"
+		"fr"	"Tuer un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Respawn"
+	{
+		"en"	"Respawn a Player"
+		"fr"	"Respawn un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Slap"
+	{
+		"en"	"Slap a Player"
+		"fr"	"Gifler un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Freeze"
+	{
+		"en"	"Freeze a Player"
+		"fr"	"Geler un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Fire"
+	{
+		"en"	"Fire a Player"
+		"fr"	"Bruler un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Mark"
+	{
+		"en"	"Mark a Player"
+		"fr"	"Baliser un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Bomb"
+	{
+		"en"	"Bomb"
+		"fr"	"Bombe"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Mute"
+	{
+		"en"	"Mute a Player"
+		"fr"	"Mute un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Gag"
+	{
+		"en"	"Gag a Player"
+		"fr"	"Gager un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Drug"
+	{
+		"en"	"Drug a Player"
+		"fr"	"Droguer un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Blind"
+	{
+		"en"	"Blind a Player"
+		"fr"	"Aveugler un joueur"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Setting_Prop"
+	{
+		"en"	"Management of props [1/1]"
+		"fr"	"Gestion des props [1/1]"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Props"
+	{
+		"en"	"Create a prop"
+		"fr"	"Créer un props"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Rotation"
+	{
+		"en"	"Spin a props"
+		"fr"	"Tourner un props"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Info"
+	{
+		"en"	"Help with commands"
+		"fr"	"Aide aux commandes"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Setting_Roleplay"
+	{
+		"#format" "{1:d}"
+		"en"	"Management Roleplay [{1}/2]"
+		"fr"	"Gestion Roleplay [{1}/2]"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Advert"
+	{
+		"en"	"Advert restart"
+		"fr"	"Avertir redémarrage"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_RestartMap"
+	{
+		"en"	"Restart the map"
+		"fr"	"Redémarrer la map"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Permissions"
+	{
+		"en"	"Edit permissions"
+		"fr"	"Modifier les permissions"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Zoning"
+	{
+		"en"	"Zoning"
+		"fr"	"Zoning"
+		"ro"	""
+		"kr"	""
+	}
+	"Menu_Plugins"
+	{
+		"en"	"Listing of plugins"
+		"fr"	"Liste des plugins"
+		"ro"	""
+		"kr"	""
+	}
+	"Command_NoAcces"
+	{
+		"en"	"You do not have access to this command."
+		"fr"	"Vous n'avez pas accès à cette commande."
+		"ro"	""
+		"kr"	""
+	}
+	"Command_NotAvailable"
+	{
+		"en"	"Command only available in-game."
+		"fr"	"Commande disponible uniquement en jeu."
+		"ro"	""
+		"kr"	""
+	}
+	"Command_HudEvent"
+	{
+		"en"	"Impossible during an event."
+		"fr"	"Impossible pendant un event."
+		"ro"	""
+		"kr"	""
+	}
+	"Command_HudDisplay"
+	{
+		"en"	"Your hud has been displayed."
+		"fr"	"Votre hud a été affiché."
+		"ro"	""
+		"kr"	""
+	}
+	"Command_HudHide"
+	{
+		"en"	"Your hud has been hidden."
+		"fr"	"Votre hud a été caché."
+		"ro"	""
+		"kr"	""
+	}
+	"Hud_Target_NoGang"
+	{
+		"#format" "{1:s},{2:d},{3:s},{4:s}"
+		"en"	"{1} ({2}HP)\nJob: {3}({4})\nGroupe: None"
+		"fr"	"{1} ({2}HP)\nMétier: {3}({4})\nGroupe: Aucun"
+		"ro"	""
+		"kr"	""
+	}
+	"Hud_Target_Gang"
+	{
+		"#format" "{1:s},{2:d},{3:s},{4:s},{5:s}"
+		"en"	"{1} ({2}HP)\nJob: {3} - {4}\nGroupe: {5}"
+		"fr"	"{1} ({2}HP)\nMétier: {3} - {4}\nGroupe: {5}"
+		"ro"	""
+		"kr"	""
+	}
+	"Hud_Money"
+	{
+		"#format" "{1:d}"
+		"en"	"- Money  : {1}$"
+		"fr"	"- Argent  : {1}$"
+		"ro"	""
+		"kr"	""
+	}
+	"Hud_Bank"
+	{
+		"#format" "{1:d}"
+		"en"	"- Bank  : {1}$"
+		"fr"	"- Banque  : {1}$"
+		"ro"	""
+		"kr"	""
+	}
+	"Hud_Job"
+	{
+		"#format" "{1:s},{2:s}"
+		"en"	"- Job  : {1} - {2}"
+		"fr"	"- Job  : {1} - {2}"
+		"ro"	""
+		"kr"	""
+	}
+	"Hud_Salary"
+	{
+		"#format" "{1:d}"
+		"en"	"- Salary  : {1}$"
+		"fr"	"- Salaire  : {1}$"
+		"ro"	""
+		"kr"	""
+	}
+	"Hud_Capital"
+	{
+		"#format" "{1:d}"
+		"en"	"- Capital  : {1}$"
+		"fr"	"- Capital  : {1}$"
+		"ro"	""
+		"kr"	""
+	}
+	"Hud_Gang"
+	{
+		"#format" "{1:s}"
+		"en"	"- Group  : {1}"
+		"fr"	"- Group  : {1}"
+		"ro"	""
+		"kr"	""
+	}
+	"Hud_Zone"
+	{
+		"#format" "{1:s}"
+		"en"	"- Zone  : {1}"
+		"fr"	"- Zone  : {1}"
+		"ro"	""
+		"kr"	""
+	}
+	"Hud_Time"
+	{
+		"#format" "{1:d},{2:d},{3:d},{4:d},{5:d},{6:s},{7:d}"
+		"en"	"- Time  : {1}{2}:{3}{4} {5} {6} {7}"
+		"fr"	"- Temps  : {1}{2}:{3}{4} {5} {6} {7}"
+		"ro"	""
+		"kr"	""
+	}
+	"RebootIn"
+	{
+		"#format" "{1:d}"
+		"en"	"Restart of the roleplay in {lightred}{1}{default} seconds."
+		"fr"	"Redémarrage du roleplay dans {lightred}{1}{default} secondes."
+		"ro"	""
+		"kr"	""
+	}
+	"Reboot"
+	{
+		"en"	"{lightred}Restarting{default}..."
+		"fr"	"{lightred}Redémarrage en cours{default}..."
+		"ro"	""
+		"kr"	""
+	}
+	"Discord_Reboot"
+	{
+		"#format" "{1:s}"
+		"en"	"Restart of {1}"
+		"fr"	"Redémarrage en cours de {1}"
+		"ro"	""
+		"kr"	""
+	}
+	"Bank Title"
+	{
+		"en"	"★ ATM Machine ★"
+		"fr"	"★ Distributeur de billets ★"
+		"ro"    "★ Bancare Automate ★"
+		"kr"	""
+	}
+	"Deposit"
+	{
+		"en"	"Deposit money"
+		"fr"	"Dépot"
+		"ro"	"Depuneți banii"
+		"kr"	""
+	}
+	"Withdraw"
+	{
+		"en"	"Withdraw"
+		"fr"	"Retrait"
+		"ro"	"Retrageré"
+		"kr"	""
+	}
+	"BankItem"
+	{
+		"en"	"Amount to deposit"
+		"fr"	"Gestion de l'inventaire"
+		"ro"	"Suma de depus"
+		"kr"	""
+	}
+	"DepositAmount"
+	{
+		"en"	"Amount to deposit"
+		"fr"	"Montant à déposer"
+		"ro"	"Suma de depus"
+		"kr"	""
+	}
+	"WithdrawAmount"
+	{
+		"en"	"Amount to be withdrawn"
+		"fr"	"Montant à retirer"
+		"ro"	"Suma de retras"
+		"kr"	""
+	}
+	"AllMoneyDeposit"
+	{
+		"en"	"All my money"
+		"fr"	"Tout mon argent"
+		"ro"	"Toți banii mei"
+		"kr"	""
+	}
+	"AllMoneyRetract"
+	{
+		"en"	"All my money"
+		"fr"	"Tout mon argent"
+		"ro"	"Suma de depus"
+		"kr"	""
+	}
+	"InsufficientMoney"
+	{
+		"en"	"You don't have money on you."
+		"fr"	"Vous ne possèdez pas d'argent sur vous."
+		"ro"	"Nu ai bani pe tine."
+		"kr"	""
+	}
+	"InsufficientBank"
+	{
+		"en"	"Your bank account is empty."
+		"fr"	"Votre compte bancaire est vide."
+		"ro"	"Contul dvs. bancar este gol."
+		"kr"	""
+	}
+	"InsufficientRequestedMoney"
+	{
+		"en"	"You do not have the requested money."
+		"fr"	"Vous ne possèdez pas l'argent demandé."
+		"ro"	"Nu aveți banii solicitați."
+		"kr"	""
+	}
+	"Overdraft"
+	{
+		"en"	"You have no right to overdraft."
+		"fr"	"Vous n'avez pas le droit au découvert."
+		"ro"	"Nu aveți dreptul la descoperirea de cont."
+		"kr"	""
+	}
+	"Crediting"
+	{
+		"#format" "{1:d}"
+		"en"	"Your account has been credited with {1}$"
+		"fr"	"Votre compte a été crédité de {1}$"
+		"ro"	"Contul dvs. a fost creditat de {1}$"
+		"kr"	""
+	}
+	"Debited"
+	{
+		"#format" "{1:d}"
+		"en"	"Your account has been debited from {1}$"
+		"fr"	"Votre compte a été débité de {1}$"
+		"ro"	"Contul dvs. a fost debitat de {1}$"
+		"kr"	""
+	}
+	"SQL_DatabaseError"
+	{
+		"en"	"Cannot connect to the database"
+		"fr"	"Connection à la base de donnée impossible"
+		"ro"	"Nu se poate conecta la baza de date"
+		"kr"	""
+	}
+	"MoneyAmount"
+	{
+		"#format" "{1:d}"
+		"en"	"You have {green}{1}$"
+		"fr"	"Vous avez {green}{1}$"
+		"ro"	"Aveți {green}{1}$"
+		"kr"	""
+	}
+	"GiveMoneyInvalid"
+	{
+		"en"	"Usage: rp_giveargent <target> <value>"
+		"fr"	"Utilisation: rp_giveargent <cible> <montant>"
+		"ro"	"Utilizare: rp_giveargent <țintă> <sumă>"
+		"kr"	""
+	}
+	"GiveBankInvalid"
+	{
+		"en"	"Usage: rp_givebank <target> <value>"
+		"fr"	"Utilisation: rp_givebank <cible> <montant>"
+		"ro"	"Utilizare: rp_givebank <țintă> <sumă>"
+		"kr"	""
+	}
+	"InvalidTarget"
+	{
+		"en"	"Invalid target."
+		"fr"	"Cible invalide."
+		"ro"	"Tintă nevalidă."
+		"kr"	""
+	}
+	"NoAcces"
+	{
+		"en"	"You do not have access to this command !"
+		"fr"	"Vous n'avez pas accès à cette commande !"
+		"ro"	"Nu aveți acces la această comandă !"
+		"kr"	""
+	}
+	"InvalidValue"
+	{
+		"en"	"Invalid amount | 0 > 100000"
+		"fr"	"Montant invalide | 0 > 100000"
+		"ro"	"Suma nevalidă | 0 > 100000"
+		"kr"	""
+	}
+	"ReceivedMoney"
+	{
+		"#format" "{1:d}"
+		"en"	"You received {1}$"
+		"fr"	"Vous avez reçu {1}$"
+		"ro"	"Ați primit $ {1}"
+		"kr"	"귀하는 $ {1}을 받았습니다"
+	}
+	"NoAmmo"
+	{
+		"en"	"You run out of ammo ! Go buy ammo to the ammu-nation."
+		"fr"	"Plus de munition ! Aller en acheter à l'armurerie."
+		"ro"	"Nu mai aveți muniție! Du-te să cumperi ceva de la armerie."
+		"kr"	""
+	}
+	"Offline"
+	{
+		"#format" "{1:s}"
+		"en"	"Player {1} has signed out of CS: GO Roleplay."
+		"fr"	"Le joueur {1} s'est déconnecté du Roleplay CS:GO."
+		"ro"	"Jucătorul {1} ​​s-a deconectat din CS: GO Roleplay."
+		"kr"	""
+	}
+	"Join"
+	{
+		"#format" "{1:s}"
+		"en"	"Player {1} has join the CS: GO Roleplay."
+		"fr"	"Le joueur {1} a rejoint le serveur Roleplay CS:GO."
+		"ro"	"Jucătorul {1} ​​s-a alăturat serverului Roleplay CS: GO."
+		"kr"	"``` ```"
+	}
+	"RespawnOneSecond"
+	{
+		"en"	"Next respawn in 1 second."
+		"fr"	"Prochaine réaparition dans 1 seconde."
+		"ro"	"Reapariția următoare în 1 secundă."
+		"kr"	"1 초 후 다음에 다시 나타납니다."
+	}
+	"RespawnIn"
+	{
+		"#format" "{1:d}"
+		"en"	"Next respawn in {1} seconds."
+		"fr"	"Prochaine réaparition dans {1} secondes."
+		"ro"	"Reapariția următoare în {1} secunde."
+		"kr"	"{1} 초 후에 다시 나타납니다."
+	}
+	"CallAdmin"
+	{
+		"#format" "{1:s}"
+		"en"	"{1} needs an admin on the Roleplay server."
+		"fr"	"{1} a besoin d'un admin sur le serveur Roleplay."
+		"ro"	"{1} are nevoie de un administrator pe serverul Roleplay."
+		"kr"	"{1}은 (는) Roleplay 서버에서 관리자가 필요합니다."
+	}
+	"MapStart"
+	{
+		"#format" "{1:s}"
+		"en"	"Loading {1}"
+		"fr"	"Lancement de {1}"
+		"ro"	"Lansarea {1}"
+		"kr"	"발사 {1}"
+	}
+	"SpecialCharacters"
+	{
+		"en"	"Special { and } characters are not allowed."
+		"fr"	"Les caractères { et } spéciaux sont interdits."
+		"ro"	"Caracterele speciale { și } nu sunt permise."
+		"kr"	"특수 문자 { and }는 금지됩니다."
+	}
+	"Gag"
+	{
+		"en"	"You are not allowed to use the chat."
+		"fr"	"Vous n'êtes pas autorisé à utiliser le chat."
+		"ro"	"Nu aveți voie să utilizați chatul."
+		"kr"	"채팅을 사용할 권한이 없습니다."
+	}
+	"Holdup_Start"
+	{
+		"#format" "{1:s}"
+		"en"	"{green}Holdup {yellow}{1}"
+		"fr"	"{green}Holdup {yellow}{1}"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_Actual"
+	{
+		"en"	""
+		"fr"	"{green}En cours"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_Police_Info"
+	{
+		"en"	""
+		"fr"	"HOLDUP : Les policiers tués ont la possibilité de revenir en tant que renfort."
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_Requires"
+	{
+		"#format" "{1:s}"
+		"en"	""
+		"fr"	"{1} policiers sont requis pour faire un holdup !"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_NotAvailable"
+	{
+		"en"	""
+		"fr"	"Ce holdup n'est pas encore disponible !"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_NotInZone"
+	{
+		"en"	""
+		"fr"	"Vous n'êtes pas dans la bonne zone !"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_NoAcces"
+	{
+		"en"	""
+		"fr"	"Votre job ne permet pas de faire de holdup !"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_NoAlive"
+	{
+		"en"	""
+		"fr"	"Vous devez être en vie !"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_Active"
+	{
+		"#format" "{1:d}"
+		"en"	""
+		"fr"	"<font color='#5eff00'>Holdup en cours</font> : <font color='#eaff00'>{1}</font> secondes restantes..."
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_Succes"
+	{
+		"en"	""
+		"fr"	"{green}Succès"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_Fail"
+	{
+		"en"	"{lightred}Failure"
+		"fr"	"{lightred}Échec"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_AmountRobbers"
+	{
+		"#format" "{1:d}"
+		"en"	"{green}Robbers: {yellow}{1}"
+		"fr"	"{green}Braqueurs: {yellow}{1}"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_Gain"
+	{
+		"#format" "{1:d}"
+		"en"	"{green}Gain Amount: {yellow{1}$"
+		"fr"	"{green}Gain: {yellow}{1}$"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_RobberDeath"
+	{
+		"en"	"{green}Principal robber deceased"
+		"fr"	"{green}Braqueur Principal décédée"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_RobberDisconnected"
+	{
+		"en"	"{green}Principal robber disconnected"
+		"fr"	"{green}Braqueur Principal déconnéctée"
+		"ro"	""
+		"kr"	""
+	}
+	"Holdup_Refresh"
+	{
+		"en"	"{green}Holdups are available again!"
+		"fr"	"{green}Les holdups sont à nouveau disponibles !"
+		"ro"	""
+		"kr"	""
+	}
+	"Zone_McDonalds"
+	{
+		"en"	"McDonald's"
+		"fr"	"McDonald's"
+		"ro"	"McDonalds"
+		"kr"	"맥도날드"
+	}
+	"Zone_Dolce&Gabanna"
+	{
+		"en"	"McDonald's"
+		"fr"	"McDonald's"
+		"ro"	"McDonalds"
+		"kr"	"맥도날드"
+	}
+}
