@@ -19,42 +19,42 @@
 		"#format" "{1:d}"
 		"en"	"Player management [{1} / 4]"
 		"fr"	"Gestion des joueurs [{1} / 4]"
-		"ro"	""
-		"kr"	""
+		"ro"	"Managementul jucătorului [{1} / 4]"
+		"kr"	"관리 관리 [{1} / 4]"
 	}
 	"Menu_JobMenu"
 	{
 		"en"	"JobMenu"
 		"fr"	"JobMenu"
-		"ro"	""
-		"kr"	""
+		"ro"	"JobMenu"
+		"kr"	"JobMenu"
 	}
 	"SubMenu_JobMenu"
 	{
 		"en"	"Manage a player's job:"
 		"fr"	"Gérer le métier d'un joueur:"
-		"ro"	""
+		"ro"	"Gestionați munca unui jucător"
 		"kr"	""
 	}
 	"Menu_Teleport"
 	{
-		"en"	"Téléport"
+		"en"	"Teleport"
 		"fr"	"Téléporter"
-		"ro"	""
+		"ro"	"Teleportați"
 		"kr"	""
 	}
 	"Menu_TeleportAt"
 	{
-		"en"	"Téléport at"
+		"en"	"Teleport on"
 		"fr"	"Téléporter sur"
-		"ro"	""
+		"ro"	"Teleportați-vă"
 		"kr"	""
 	}
 	"Menu_Skin"
 	{
-		"en"	"Set skin"
-		"fr"	"Mettre un skin"
-		"ro"	""
+		"en"	"Skins"
+		"fr"	"Skins"
+		"ro"	"Skins"
 		"kr"	""
 	}
 	"Menu_Weapon"
